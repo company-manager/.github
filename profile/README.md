@@ -1,3 +1,3 @@
 # 👋 Bem-vindo à Company Manager
 
-Vemo-nos em [company-manager.space](http://company-manager.space) 👀
+Vemo-nos em [companymanager.space](http://companymanager.space) 👀
